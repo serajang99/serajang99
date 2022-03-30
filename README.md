@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">🧸 Contact Me 🧸</h3>
 <p align="left">
-  <a href="https://velog.io/@serajang99" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@serajang99"/></a>&nbsp
+  <a href="https://velog.io/@serajang99" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@serajang99"/></a>&nbsp
   <a href="mailto:serajang1679@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a>
 </p>
 
 <h3 align="left">🌱 My Github 🌱 </h3>
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajang99&layout=compact&theme=radical" />
   </a> <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=serajang99&show_icons=true&theme=radical" />
   </a> <br/> 
 </p>

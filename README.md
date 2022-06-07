@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></span>
   <br/>
   <b>- Database : </b>
   <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>

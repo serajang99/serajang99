@@ -54,7 +54,9 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajang99&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
     </a></span>
   <br/> 
-  <a href="https://github.com/Platane/snk" target='_blank'>
-    <img align="center" src="https://github.com/serajang99/serajang99/blob/output/github-contribution-grid-snake.svg" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </p>

@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <b>- Database : </b>
   <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></span>
   <span></span>
   <span></span>
 </p>

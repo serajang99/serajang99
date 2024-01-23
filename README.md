@@ -40,6 +40,12 @@ Here are some ideas to get you started:
   <span></span>
 </p>
 
+<h3 align="left">🏛 Career 🏛</h3>
+<p align="left">
+  <h4>Shinhan Bank</h4>
+  2024.01 ~ 
+</p>
+
 <h3 align="left">🏫 Education 🏫</h3>
 <p align="left">
   <h4>Sogang Univ.</h4>
